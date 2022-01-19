@@ -136,7 +136,7 @@ def main():
         updater.start_webhook(listen="0.0.0.0",
                               port=int(PORT),
                               url_path=TOKEN,
-                              webhook_url='https://stark-everglades-38564.herokuapp.com/' + TOKEN)
+                              webhook_url='https://dry-sea-48257.herokuapp.com/' + TOKEN)
     else:
         updater.start_polling()
 
