@@ -1,4 +1,4 @@
-# [Holiday-usa-bot](https://raw.githubusercontent.com/julimen5/holiday-usa-bot/main/.github/images/logo.png)
+# ![Holiday-usa-bot](https://raw.githubusercontent.com/julimen5/holiday-usa-bot/main/.github/images/logo.png)
 
 # Holiday-usa-bot
 Holiday-usa-bot is a free telegram bot to know when is a holiday in the USA.
